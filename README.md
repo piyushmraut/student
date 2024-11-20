@@ -64,3 +64,6 @@ properties
 - *Back-End*: Spring Boot (Java)
 - *Database*: MongoDB Atlas
 - *Hosting Platforms*: Render, Netlify (or similar)
+
+## *Deployed Project Link*
+- Netlify : https://b424piyush.netlify.app/
